@@ -1,0 +1,2 @@
+familias que responderam1 ,media  salarial:  30.0,media de filhos:  1.0, maior salario: 30.0, menor salario: 30.0
+  
