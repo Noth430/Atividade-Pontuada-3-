@@ -23,10 +23,14 @@ Ao adicionar uma família, deve-se limpar o terminal e apresentar o menu novamen
 """
 
 class Familias:
-    total_familias = int
-    media_salario_população = float
-    media_numero_filhos = float
-    maior_salario = int
-    menor_salario = int
+    quantiade_filhos = int
+    salario = float
+
+   
+    
 
 
+
+    
+
+            
